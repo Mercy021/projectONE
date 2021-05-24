@@ -1,0 +1,80 @@
+body{
+    background-color:#eee; 
+}
+.topnav-centered ul li a{
+    font-family: 'Courgette';
+    font-size: 30px;
+    text-decoration: none;
+    color: brown;
+    
+}
+.topnav-centered ul li{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 20px;  
+}
+.topnav-centered{
+    text-align: center;
+    
+   
+}
+.head{
+    transform: rotate(-12deg); 
+    font-family: 'Courgette';
+    margin-left: 50px;   
+    position: absolute;
+    color:red;
+    font-size: 60px;
+    
+      
+}
+.rotate{
+    text-align: left;
+}
+.image{
+     text-align:center ;
+}
+line{
+    color: purple;
+    
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Courgette';
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+    font-family: 'Courgette';
+  
+}
+.row{
+    display: flex;
+    content: "";
+    clear: both;
+    text-align: center;
+}
+.column{
+    content: "";
+    display: table;
+    clear: both;
+    width: 33.3%;
+    text-align: center;
+}
+h2{
+    font-family: 'Courgette';
+    color: darkblue;
+    text-align: center;
+    
+}
+h3{
+    text-align: right;
+    position: top;
+    color:brown;
+    font-family: 'Courgette';
+}
+
+
